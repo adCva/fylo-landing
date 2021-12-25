@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fylo-landing/static/css/main.5142e403.css",
+    "main.js": "/fylo-landing/static/js/main.69bffe02.js",
+    "index.html": "/fylo-landing/index.html",
+    "main.5142e403.css.map": "/fylo-landing/static/css/main.5142e403.css.map",
+    "main.69bffe02.js.map": "/fylo-landing/static/js/main.69bffe02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5142e403.css",
+    "static/js/main.69bffe02.js"
+  ]
+}
